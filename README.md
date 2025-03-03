@@ -4,8 +4,9 @@
 
 项目起步中
 
-我们目前建了一个校园论坛，正在准备后期开发中
-欢迎访问我们的论坛：https://www.gzhu.site/
+# 我们目前建了一个校园论坛，正在准备后期开发中
+# 欢迎访问我们的论坛！ https://www.gzhu.site/
+
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/f328c71c-fd6d-483e-889d-53127e2fe3cc" />
 
 
